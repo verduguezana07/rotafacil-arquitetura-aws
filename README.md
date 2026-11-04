@@ -59,9 +59,21 @@ Durante o desenvolvimento do projeto, tive a oportunidade de aprofundar meus con
 - Arquitetura em nuvem e alta disponibilidade.
 - Comunicação técnica e trabalho em equipe.
 
-## 👥 Trabalho em equipe
+## 👥 Equipe — RotaFácil
 
-O projeto foi desenvolvido colaborativamente, com divisão de responsabilidades entre os integrantes, abrangendo infraestrutura, redes, escalabilidade, banco de dados, segurança, monitoramento e automação.
+Este projeto foi desenvolvido em equipe, com colaboração, troca de conhecimentos e divisão de responsabilidades na elaboração da arquitetura AWS.
+
+**Integrantes:**
+
+- Ana Verduguez
+- Érica Claudiano
+- Mônica Ribeiro
+- Kauã Muniz
+- Richardson Firmino
+- Guilherme Moreira
+- Vítor Nazaré
+
+Cada integrante contribuiu com seus conhecimentos e pesquisas para desenvolver uma proposta de arquitetura em nuvem, priorizando segurança, escalabilidade e alta disponibilidade.
 
 ## 📌 Sobre o projeto
 
